@@ -2,7 +2,7 @@
 https://github.com/marcialarturo/IntelliQuiz
 
 ## Video
-https://youtu.be/LVQYIZEgf3E
+https://youtu.be/vm05B1Yfwf0
 
 # IntelliQuiz
 IntelliQuiz simplifies the process of learning and creating new learning materials. With IntelliQuiz anyone can create quizzes in seconds, all powerred by AI technology, the application produces stimulating and personalized quizzes that cater to the unique interests of every user.
